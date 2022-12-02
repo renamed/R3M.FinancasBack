@@ -1,4 +1,4 @@
-package br.renamed.com.financasback;
+package renamed.dev.financasback;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

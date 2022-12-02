@@ -1,4 +1,4 @@
-package br.renamed.com.financasback;
+package renamed.dev.financasback;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

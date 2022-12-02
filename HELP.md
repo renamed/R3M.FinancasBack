@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'br.renamed.com.financas-back' is invalid and this project uses 'br.renamed.com.financasback' instead.
+* The original package name 'renamed.dev.financas-back' is invalid and this project uses 'renamed.dev.financasback' instead.
 
 # Getting Started
 
